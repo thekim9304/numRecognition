@@ -1,5 +1,5 @@
-from utils2.topLocalization import top_localization
-from utils2.botLocalization import bot_localization
+from utils.topLocalization import top_localization
+from utils.botLocalization import bot_localization
 
 from tensorflow.keras.models import load_model
 import numpy as np
